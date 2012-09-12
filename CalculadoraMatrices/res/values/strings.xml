@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name">CalculadoraMatrices</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Main</string>
+    <string name="title_activity_llenar_matriz">LlenarMatriz</string>
+    <string name="title_activity_resultados">Resultados</string>
+    <string name="title_activity_entrada_complejo">EntradaComplejo</string>
+    <string name="M3x3">Matriz de 3 x 3</string>
+    <string name="M2x2">Matriz de 2 x 2</string>
+    <string name="M4x4">Matriz de 4 x 4</string>
+    <string name="etiquetaRectangulares">Rectangulares</string>
+    <string name="etiquetaPolares">Polares</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="TMatriz">Cual es el tamaño de la matriz</string>
+    <string name="numCero">0</string>
+
+</resources>
